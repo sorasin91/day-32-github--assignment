@@ -1,4 +1,2 @@
 Hello from Sora
 This is for the assignment
-
-This is the chances in master branch
